@@ -1,4 +1,7 @@
 :root {
+
+    --purple-30: hsl(260,100%,98%);
+    
     --purple-50: hsl(260, 100%, 95%);
     --purple-300: hsl(264, 82%, 80%);
     --purple-500: hsl(263, 55%, 52%);
@@ -133,12 +136,20 @@ footer {
     color: var(--purple-50);
 }
 
+.light-f3 {
+    color: var(--purple-30);
+}
+
 .dark-f {
     color: var(--grey-400);
 }
 
 .medium-f {
     color: var(--grey-200);
+}
+
+.medium-f2 {
+    color: var(--purple-300);
 }
 
 .lh1 {
