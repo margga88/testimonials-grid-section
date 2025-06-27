@@ -260,13 +260,7 @@ footer {
 @media only screen and (min-width: 1440px) {
 
     main {
-        margin: 20px 155px;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(2, max-content);                             
-    }   
-
-    .tes-container1 {
-        background-position: top right 70px; 
+        margin: 20px 155px;                                   
     }   
 
 }
